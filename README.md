@@ -52,6 +52,6 @@ By completing the following steps, you will be able to run SkyPilot on FluffyClo
 - [Step 0](/docs/integration_steps/step_0-api-library.md)
 - [Step 1](/docs/integration_steps/step_1-node-provider.md)
 - [Step 2](/docs/integration_steps/step_2-catalog.md)
-- [Step 3](/docs/integration_steps/step_3-setup-code.md)
-- [Step 4](/docs/integration_steps/step_4-setup-code.md.md)
+- [Step 3](/docs/integration_steps/step_3-cloud-class.md)
+- [Step 4](/docs/integration_steps/step_4-setup-code.md)
 - [Step 5](/docs/integration_steps/step_5-e2e-failover.md)
